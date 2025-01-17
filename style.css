@@ -1,4 +1,19 @@
+/* body affects the whole page */
 body {
     background-color:linen;
+    color: hotpink;
+}
+
+h1 {
     color: purple;
+}
+
+/* type#id affects ids */
+p#computer {
+    color: red;
+}
+
+/* .something affects classes */
+.school {
+    color: blue;
 }
